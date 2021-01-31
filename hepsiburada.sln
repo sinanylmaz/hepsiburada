@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hepsiburada", "hepsiburada\hepsiburada.csproj", "{B9BFBDAB-C718-411E-9A0A-334D309E8B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestHepsiBurada", "UnitTestHepsiBurada\UnitTestHepsiBurada.csproj", "{4C4226C6-D0DD-4601-89A4-6EE6693C2878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BFBDAB-C718-411E-9A0A-334D309E8B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BFBDAB-C718-411E-9A0A-334D309E8B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BFBDAB-C718-411E-9A0A-334D309E8B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BFBDAB-C718-411E-9A0A-334D309E8B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4226C6-D0DD-4601-89A4-6EE6693C2878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4226C6-D0DD-4601-89A4-6EE6693C2878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4226C6-D0DD-4601-89A4-6EE6693C2878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4226C6-D0DD-4601-89A4-6EE6693C2878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74263120-A344-47F6-BCF1-A0EB6B40A579}
+	EndGlobalSection
+EndGlobal
